@@ -30,7 +30,7 @@
 struct k_thread coop_thread;
 K_THREAD_STACK_DEFINE(coop_stack, STACKSIZE);
 unsigned int led_is_on;
-
+//refactored this code
 void thread_entry(void)
 {
     int counter, led_state;
