@@ -1,3 +1,4 @@
+![example workflow](https://github.com/ctapiero/lab1/actions/workflows/main.yml/badge.svg)
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
