@@ -38,7 +38,7 @@
 <h3 align="center">LAB 1</h3>
 
   <p align="center">
-    This project tests the code using unit testing and integration tests
+    This project tests the code using unit testing and integration test
     <br />
     <a href="https://github.com/ctapiero/lab1"><strong>Explore the docs »</strong></a>
     <br />
